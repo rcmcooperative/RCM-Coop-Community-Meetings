@@ -1,0 +1,119 @@
+---
+tags: meeting
+description: community meeting
+---
+
+# YYYY-MM-DD | Research Community Management Cooperative Community Meeting 
+
+:::info
+* **Time**: 
+* **Meeting Information**: 
+    * Joining Link: 
+* Schedule and all other links and resources for the CM team: 
+* GitHub for the RCM Coop: https://github.com/rcmcooperative
+* Community Meeting GitHub repo: 
+:::
+
+[TOC]
+
+### Agenda
+
+* **Theme**: XXX
+    * Presentation link (if applicable): XXX
+* **Chair**: XXX
+* **Documentarian**: XXX
+* **Speakers**: XXX
+* **Other Information**: 
+
+### Attendees  
+> *Please add your name below.* 
+* 
+*  
+* 
+* 
+* 
+
+### Apologies
+> *Please add your name below if you are not able to attend the meeting.*
+* 
+*   
+* 
+* 
+*   
+
+### RCM Share-outs
+
+> *Please share a short update about your current community work (updates, blockers, upcoming plans), using the template below.*
+
+```
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+```
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+* [name=Name]
+ 🌹 = Something great that happened (a rose!)
+ 🌵 = Something not-so-great that happened (a thorn!)
+ 🌱 = Something you're looking forward to (a bud!)
+
+### Notes
+
+> *If the assigned documentarian, please write meeting notes here*
+
+* 
+*   
+* 
+
+*End of the meeting*
+
+### Next Meeting
+
+See the **2026** Community Meetingschedule here: 
+
+* Set a document and update the calendar invite
+* **Next month**
+    * Chair: [name]
+    * Documentarian: [name]
+    * Theme: [theme]
+    * Speaker: [name]
+
+### Information and Links  
+
+* Link of links: 
+* Shared calendar with meeting times: 
+* GitHub for the project repo: https://github.com/rcmcooperative
