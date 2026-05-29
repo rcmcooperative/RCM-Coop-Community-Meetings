@@ -2,4 +2,4 @@
 
 Find here document templates for running community meetings.
 
-* RCM meetings - 
+* Community meetings - 
